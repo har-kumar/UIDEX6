@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UIDEX6/static/css/main.3c4c243f.css",
+    "main.js": "/UIDEX6/static/js/main.7d06c89b.js",
+    "static/js/453.c0f80483.chunk.js": "/UIDEX6/static/js/453.c0f80483.chunk.js",
+    "index.html": "/UIDEX6/index.html",
+    "main.3c4c243f.css.map": "/UIDEX6/static/css/main.3c4c243f.css.map",
+    "main.7d06c89b.js.map": "/UIDEX6/static/js/main.7d06c89b.js.map",
+    "453.c0f80483.chunk.js.map": "/UIDEX6/static/js/453.c0f80483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4c243f.css",
+    "static/js/main.7d06c89b.js"
+  ]
+}
